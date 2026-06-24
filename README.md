@@ -95,3 +95,15 @@ The velocity contour reveals a widened wake and separated flow region on the upp
 ## Project Files
 
 - Full Report: [4412 Report.pdf](4412%20Report.pdf)
+
+## Key Engineering Skills Demonstrated
+
+- Computational Fluid Dynamics (CFD)
+- ANSYS Fluent
+- Structured Mesh Generation
+- Aerodynamic Analysis
+- Lift and Drag Evaluation
+- Pressure Contour Analysis
+- Velocity Contour Analysis
+- Stall Prediction
+- Low Reynolds Number Aerodynamics
