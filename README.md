@@ -65,3 +65,29 @@ The analysis was conducted at a Reynolds number of approximately 50,000 using AN
 Shruti Jaykumar Wani
 
 B.Tech Aerospace Engineering
+
+## CFD Results
+
+### Mesh
+
+![Mesh](Mesh.png)
+
+### Pressure Contour at 0°
+
+![Pressure 0](0_pressure_contour.png)
+
+### Pressure Contour at 12°
+
+The pressure contour shows a strong suction region near the leading edge followed by pressure recovery, indicating the onset of separation near stall.
+
+![Pressure 12](12_pressure_contour.png)
+
+### Velocity Contour at 0°
+
+![Velocity 0](0_velocity_contour.png)
+
+### Velocity Contour at 12°
+
+The velocity contour reveals a widened wake and separated flow region on the upper surface, confirming stall behaviour.
+
+![Velocity 12](12_velocity_contour.png)
