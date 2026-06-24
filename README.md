@@ -55,8 +55,8 @@ The analysis was conducted at a Reynolds number of approximately 50,000 using AN
 
 ## Software Used
 
+- Fusion 360
 - ANSYS Fluent
-- ANSYS Meshing
 
 ---
 
