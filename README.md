@@ -91,3 +91,7 @@ The pressure contour shows a strong suction region near the leading edge followe
 The velocity contour reveals a widened wake and separated flow region on the upper surface, confirming stall behaviour.
 
 ![Velocity 12](12_velocity_contour.png)
+
+## Project Files
+
+- Full Report: [4412 Report.pdf](4412%20Report.pdf)
